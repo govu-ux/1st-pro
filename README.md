@@ -1,4 +1,4 @@
-# 🚀 1St Pro
+# 🚀 1St Project
 
 Starter JavaScript project—likely your first.
 
@@ -29,11 +29,6 @@ git clone https://github.com/govu-ux/1st-pro.git
 
 ---
 
-## 📸 Screenshots
-
-> *(You can add screenshots here if available)*
-
----
 
 ## 🧠 Inspiration
 
